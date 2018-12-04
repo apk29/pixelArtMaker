@@ -1,7 +1,8 @@
-https://apk29.github.io/pixelArtMaker/.
+[Live version](https://apk29.github.io/pixelArtMaker/.)
 
 
 # Pixel Art Maker Project
+ A single-page web app that allows users to draw pixel art on a customizable canvas! 
 
 ## Table of Contents
 
@@ -10,11 +11,6 @@ https://apk29.github.io/pixelArtMaker/.
 
 ## Instructions
 
-To get started, open `designs.js` and start building out the app's functionality.
+To get started, download the file here. Open the index.html file in a web browser. Input the size of the grid height and width. Select the desired color and click on the grid to "draw" your pixel art.
 
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
-
-## Contributing
-
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
 

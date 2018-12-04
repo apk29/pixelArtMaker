@@ -5,8 +5,8 @@
 
 $('#sizePicker').submit(function makeGrid(grid) {
   $('table tr').remove();
-  var row_input = $('#input_height').val();// Select size input
-  var col_input = $('#input_width').val();// Select size input
+  var row_input = $('#inputHeight').val();// Select size input
+  var col_input = $('#inputWidth').val();// Select size input
   for (var i = 1; i <= row_input; i++) {
    $('table').append("<tr></tr>");
    for (var j = 1; j <= col_input; j++) {
@@ -21,3 +21,4 @@ $('body').on('click', 'td', function() {
   var color = document.getElementById('colorPicker').value;
     $(this).css('background-color', color);
 });
+
